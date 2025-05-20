@@ -3,4 +3,4 @@ project(cpp_coding_exercise)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(cpp_coding_exercise main.cpp)
+add_executable(cpp_coding_exercise PointerReferencePractice/main1.cpp)
