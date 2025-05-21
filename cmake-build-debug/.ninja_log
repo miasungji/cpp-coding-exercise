@@ -1,15 +1,9 @@
 # ninja log v6
-610	702	1747779128959077211	cpp_coding_exercise	d1fdc474feb53960
-4	610	1747779128352874860	CMakeFiles/cpp_coding_exercise.dir/PointerReferencePractice/main.cpp.o	5a1e53d3b4708bb2
-1	63	1747779819330836242	build.ninja	276212b2069087e3
-2	60	1747779819330836242	build.ninja	276212b2069087e3
-2	503	1747780101408009434	CMakeFiles/cpp_coding_exercise.dir/PointerReferencePractice/main1.cpp.o	f92d69f01923badf
-504	596	1747780101909905127	cpp_coding_exercise	5e5a91c9e248b03c
-3	474	1747780138873080552	CMakeFiles/cpp_coding_exercise.dir/PointerReferencePractice/main1.cpp.o	f92d69f01923badf
-474	508	1747780139343637475	cpp_coding_exercise	5e5a91c9e248b03c
-4	466	1747780382777108249	CMakeFiles/cpp_coding_exercise.dir/PointerReferencePractice/main1.cpp.o	f92d69f01923badf
-466	502	1747780383239253405	cpp_coding_exercise	5e5a91c9e248b03c
-4	475	1747780431067138698	CMakeFiles/cpp_coding_exercise.dir/PointerReferencePractice/main1.cpp.o	f92d69f01923badf
-475	509	1747780431537754327	cpp_coding_exercise	5e5a91c9e248b03c
 2	486	1747780454399126731	CMakeFiles/cpp_coding_exercise.dir/PointerReferencePractice/main1.cpp.o	f92d69f01923badf
+2	60	1747852816949374915	build.ninja	276212b2069087e3
+4	610	1747779128352874860	CMakeFiles/cpp_coding_exercise.dir/PointerReferencePractice/main.cpp.o	5a1e53d3b4708bb2
 486	519	1747780454882752291	cpp_coding_exercise	5e5a91c9e248b03c
+2	65	1747852816949374915	build.ninja	276212b2069087e3
+1	114	1747852816957629080	CMakeFiles/cpp_coding_exercise.dir/4_Functions/4_2_pass_by_reference.cpp.o	dca9670053be9b93
+2	485	1747852840667162678	CMakeFiles/cpp_coding_exercise.dir/4_Functions/4_2_pass_by_reference.cpp.o	dca9670053be9b93
+485	521	1747852841151059807	cpp_coding_exercise	a841c7394a064575
