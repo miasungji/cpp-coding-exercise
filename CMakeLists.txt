@@ -3,4 +3,4 @@ project(cpp_coding_exercise)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(cpp_coding_exercise 3_Pointer_and_Reference/q1_modify_value_using_reference.cpp)
+add_executable(cpp_coding_exercise 4_Functions/4_5_function_overloading/q2_overload_int_double.cpp)
