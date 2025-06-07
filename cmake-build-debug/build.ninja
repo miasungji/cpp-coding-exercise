@@ -49,11 +49,11 @@ cmake_ninja_workdir = /Users/mia/cpp-coding-exercise/cmake-build-debug/
 
 build cmake_object_order_depends_target_cpp_coding_exercise: phony || .
 
-build CMakeFiles/cpp_coding_exercise.dir/4_Functions/4_7_function_pointer/q1.cpp.o: CXX_COMPILER__cpp_coding_exercise_unscanned_Debug /Users/mia/cpp-coding-exercise/4_Functions/4_7_function_pointer/q1.cpp || cmake_object_order_depends_target_cpp_coding_exercise
-  DEP_FILE = CMakeFiles/cpp_coding_exercise.dir/4_Functions/4_7_function_pointer/q1.cpp.o.d
+build CMakeFiles/cpp_coding_exercise.dir/9_Object-oriented-programming/q4.cpp.o: CXX_COMPILER__cpp_coding_exercise_unscanned_Debug /Users/mia/cpp-coding-exercise/9_Object-oriented-programming/q4.cpp || cmake_object_order_depends_target_cpp_coding_exercise
+  DEP_FILE = CMakeFiles/cpp_coding_exercise.dir/9_Object-oriented-programming/q4.cpp.o.d
   FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/cpp_coding_exercise.dir
-  OBJECT_FILE_DIR = CMakeFiles/cpp_coding_exercise.dir/4_Functions/4_7_function_pointer
+  OBJECT_FILE_DIR = CMakeFiles/cpp_coding_exercise.dir/9_Object-oriented-programming
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/cpp_coding_exercise.dir/4_Functions/4_7_function_pointer/q1.cpp
 #############################################
 # Link the executable cpp_coding_exercise
 
-build cpp_coding_exercise: CXX_EXECUTABLE_LINKER__cpp_coding_exercise_Debug CMakeFiles/cpp_coding_exercise.dir/4_Functions/4_7_function_pointer/q1.cpp.o
+build cpp_coding_exercise: CXX_EXECUTABLE_LINKER__cpp_coding_exercise_Debug CMakeFiles/cpp_coding_exercise.dir/9_Object-oriented-programming/q4.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/cpp_coding_exercise.dir
   POST_BUILD = :
